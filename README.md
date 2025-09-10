@@ -1,6 +1,6 @@
 ### <h1 align="center">suicidix 🪷</h1>
 
-  * javascript/rust developer
+  * javascript developer
   * i enjoy modding games (a little too much)
 
 ## Public projects:
